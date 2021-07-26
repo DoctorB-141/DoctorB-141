@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DoctorB-141 (the b is for bargain) - Hobbiest programmer intrested in low level programming
 Favorite language: c++
+Favorite text editor: vim
 Currently working on: 64 bit os (will public when in usable)
 
 
